@@ -1,0 +1,28 @@
+.Login{
+    background: white;
+    top: 0px;
+  }
+
+.form{
+    width: 100%;
+    text-align: center;
+    bottom: 100px;
+    position: fixed;
+    background-color: #f8f8f8;
+    left:0;
+}
+
+.h1{
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+.h2{
+    text-align: center;
+    padding: 20px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
